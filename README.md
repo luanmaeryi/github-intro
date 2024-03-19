@@ -1,3 +1,3 @@
 # github-intro
 
-For the class of advanced R 
+For the class of advanced R.
